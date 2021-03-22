@@ -1,5 +1,5 @@
-## Fd19ControllersApi
-by Maxim Tsarenko & Gil Shalev
+## CinemaNowApi
+by Gil Shalev
 
 ## Publish
 
